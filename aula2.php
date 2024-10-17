@@ -4,6 +4,6 @@
 //então deixa de ser uma variavel e se torna uma constante
 // se declarar o valor de uma constante, ele não pode mais ser alterado
 
-    define ('nome', 'maria eduarda')
+    define ('NOME', 'maria eduarda')
 //primeiro o nome da constante, depos a virgula que substitui o = e logo o valor da constante
 ?>
