@@ -1,0 +1,13 @@
+Objetivo: Jantar
+
+- estar em casa
+    estou com fome?
+        ok
+            tem comida?
+                sim! vamos jantar
+                
+-  se não estiver em casa, tenho que ir para casa
+    cheguei em casa? ok! executamos a mesma ação do primeiro
+
+
+
