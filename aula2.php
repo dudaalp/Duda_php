@@ -6,4 +6,5 @@
 
     define ('NOME', 'maria eduarda')
 //primeiro o nome da constante, depos a virgula que substitui o = e logo o valor da constante
+//O NOME DA CONSTANTE TEM QUE SER EM MAIUSCULO
 ?>
